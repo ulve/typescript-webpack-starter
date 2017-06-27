@@ -1,5 +1,5 @@
 # Typescript Webpack Starter
-[![Build Status](https://travis-ci.org/ulve/typescript-webpack-starter.svg?branch=develop)](https://travis-ci.org/ulve/typescript-webpack-starter)
+[![Build Status](https://travis-ci.org/ulve/typescript-webpack-starter.svg?branch=master)](https://travis-ci.org/ulve/typescript-webpack-starter)
 
 Nuså
 
